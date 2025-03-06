@@ -6,5 +6,8 @@
   "license": "MIT",
   "vim": {
     "opt": true
+  },
+  "contributes": {
+    "snippets": []
   }
 }
